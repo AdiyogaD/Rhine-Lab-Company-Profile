@@ -1,6 +1,5 @@
 Project Sekolah TIK membuat Website
-
-Muhammad Adiyoga Danendra 
-
 SMA PESAT SCHOOL OF TALENT BOGOR
-XI MIPA 4
+
+
+Muhammad Adiyoga Danendra XI MIPA 4
