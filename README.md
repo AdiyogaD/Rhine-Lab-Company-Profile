@@ -1,4 +1,4 @@
-Project Sekolah TIK membuat Website <br>
+SCHOOL PROJECT MAMKING WEBSITE <br>
 SMA PESAT SCHOOL OF TALENT BOGOR <hr>
 
 
