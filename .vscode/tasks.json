@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\Adiyoga Danendra\\OneDrive\\Desktop\\TIK",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
