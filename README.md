@@ -1,5 +1,2 @@
-SCHOOL PROJECT MAMKING WEBSITE <br>
-SMA PESAT SCHOOL OF TALENT BOGOR <hr>
-
-
-Muhammad Adiyoga Danendra XI MIPA 4
+RHINE LAB. LLC. COMPANY PROFILE <hr>
+School Project using Arknights Rhine Lab as the reference
