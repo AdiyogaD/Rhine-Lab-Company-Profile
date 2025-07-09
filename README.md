@@ -1,4 +1,4 @@
-RHINE LAB. LLC. COMPANY PROFILE <hr>
+RHINE LAB. LLC. COMPANY PROFILE (WIP) <hr>
 School Project using Arknights Rhine Lab as the reference
 <hr>
 Preview : <br>
